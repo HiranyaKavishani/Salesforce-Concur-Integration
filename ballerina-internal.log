@@ -1,0 +1,162 @@
+[2018-10-04 14:35:20,394] ERROR {io.netty.util.ResourceLeakDetector} - LEAK: ByteBuf.release() was not called before it's garbage-collected. See http://netty.io/wiki/reference-counted-objects.html for more information.
+Recent access records:   
+[2018-10-04 17:56:37,118] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m34s873ms).  
+[2018-10-04 18:01:25,861] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s749ms).  
+[2018-10-04 18:41:51,600] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=40m25s739ms).  
+[2018-10-04 18:43:16,180] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54s569ms).  
+[2018-10-04 20:58:20,778] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m3s885ms).  
+[2018-10-04 21:04:17,805] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m27s17ms).  
+[2018-10-05 02:16:38,560] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m49s292ms).  
+[2018-10-05 03:14:34,237] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57m55s677ms).  
+[2018-10-05 04:12:54,916] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=57m50s669ms).  
+[2018-10-05 05:16:08,562] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h2m13s627ms).  
+[2018-10-05 06:10:36,240] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54m27s678ms).  
+[2018-10-05 06:11:06,024] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s784ms), soft-evicting connections from pool.  
+[2018-10-05 07:12:29,192] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=46m53s60ms).  
+[2018-10-05 07:14:42,746] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m43s551ms).  
+[2018-10-05 07:39:37,242] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=12m54s394ms).  
+[2018-10-05 08:45:09,598] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m32s87ms).  
+[2018-10-05 09:01:45,723] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m36s125ms).  
+[2018-10-05 09:02:38,387] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s664ms).  
+[2018-10-05 09:18:08,060] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m29s673ms).  
+[2018-10-05 09:19:30,732] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=52s670ms).  
+[2018-10-05 09:25:21,915] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m51s183ms).  
+[2018-10-05 10:57:11,080] ERROR {io.netty.util.ResourceLeakDetector} - LEAK: ByteBuf.release() was not called before it's garbage-collected. See http://netty.io/wiki/reference-counted-objects.html for more information.
+Recent access records:   
+[2018-10-05 11:56:25,690] ERROR {io.netty.util.ResourceLeakDetector} - LEAK: ByteBuf.release() was not called before it's garbage-collected. See http://netty.io/wiki/reference-counted-objects.html for more information.
+Recent access records:   
+[2018-10-05 12:10:59,317] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s640ms).  
+[2018-10-05 12:16:18,034] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s703ms).  
+[2018-10-05 12:21:36,760] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s712ms).  
+[2018-10-05 12:26:25,481] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s721ms).  
+[2018-10-05 12:31:44,217] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s716ms).  
+[2018-10-05 12:37:02,970] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s732ms).  
+[2018-10-05 12:42:20,707] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m47s723ms).  
+[2018-10-05 12:47:10,229] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m49s522ms).  
+[2018-10-05 12:53:43,580] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s700ms).  
+[2018-10-05 12:59:02,317] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s715ms).  
+[2018-10-05 13:04:21,032] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s712ms).  
+[2018-10-05 13:09:09,757] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s725ms).  
+[2018-10-05 13:14:28,499] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s726ms).  
+[2018-10-05 13:18:06,382] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m7s876ms).  
+[2018-10-05 13:56:23,436] ERROR {io.netty.util.ResourceLeakDetector} - LEAK: ByteBuf.release() was not called before it's garbage-collected. See http://netty.io/wiki/reference-counted-objects.html for more information.
+Recent access records:   
+[2018-10-05 15:34:21,402] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m45s88ms).  
+[2018-10-05 15:54:20,795] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6m22s618ms).  
+[2018-10-05 15:59:09,847] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m49s54ms).  
+[2018-10-05 16:04:28,597] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s740ms).  
+[2018-10-05 16:09:17,323] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s726ms).  
+[2018-10-05 16:09:46,897] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s574ms), soft-evicting connections from pool.  
+[2018-10-05 16:24:01,550] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m14s564ms).  
+[2018-10-05 19:34:58,748] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=48m3s282ms).  
+[2018-10-05 20:25:33,170] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m3s216ms).  
+[2018-10-05 20:37:19,901] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m46s731ms).  
+[2018-10-05 20:37:49,090] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s189ms), soft-evicting connections from pool.  
+[2018-10-05 21:01:53,259] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m33s988ms).  
+[2018-10-05 23:13:53,307] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=54m29s551ms).  
+[2018-10-05 23:14:52,547] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s236ms), soft-evicting connections from pool.  
+[2018-10-08 09:46:51,411] ERROR {io.netty.util.ResourceLeakDetector} - LEAK: ByteBuf.release() was not called before it's garbage-collected. See http://netty.io/wiki/reference-counted-objects.html for more information.
+Recent access records:   
+[2018-10-08 09:51:08,356] ERROR {io.netty.util.ResourceLeakDetector} - LEAK: ByteBuf.release() was not called before it's garbage-collected. See http://netty.io/wiki/reference-counted-objects.html for more information.
+Recent access records:   
+[2018-10-08 09:59:44,222] ERROR {io.netty.util.ResourceLeakDetector} - LEAK: ByteBuf.release() was not called before it's garbage-collected. See http://netty.io/wiki/reference-counted-objects.html for more information.
+Recent access records:   
+[2018-10-08 16:23:38,834] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m41s721ms).  
+[2018-10-08 16:59:07,928] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m29s47ms).  
+[2018-10-08 17:02:46,434] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m38s506ms).  
+[2018-10-08 17:47:21,543] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m27s807ms).  
+[2018-10-08 19:31:51,591] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h44m30s51ms).  
+[2018-10-17 12:35:03,023] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s157ms).  
+[2018-10-17 12:40:22,122] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m49s79ms).  
+[2018-10-17 12:45:10,224] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s102ms).  
+[2018-10-17 12:50:29,324] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m49s97ms).  
+[2018-10-17 12:55:47,338] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m47s908ms).  
+[2018-10-17 13:00:43,432] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m26s83ms).  
+[2018-10-17 13:05:31,523] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s91ms).  
+[2018-10-17 13:10:50,613] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m49s81ms).  
+[2018-10-17 13:16:08,710] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s84ms).  
+[2018-10-17 13:19:23,821] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m45s103ms).  
+[2018-10-23 10:04:03,851] ERROR {org.ballerinalang.stdlib.internal.file.Delete} - IO error occurred while deleting file/directory: /Users/hiranya/Projects/finance-sf-concur-integration/files/2018_10_23_ItemStatus.txt 
+java.nio.file.NoSuchFileException: /Users/hiranya/Projects/finance-sf-concur-integration/files/2018_10_23_ItemStatus.txt
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+	at sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:144)
+	at java.nio.file.Files.readAttributes(Files.java:1737)
+	at java.nio.file.FileTreeWalker.getAttributes(FileTreeWalker.java:219)
+	at java.nio.file.FileTreeWalker.visit(FileTreeWalker.java:276)
+	at java.nio.file.FileTreeWalker.walk(FileTreeWalker.java:322)
+	at java.nio.file.FileTreeIterator.<init>(FileTreeIterator.java:72)
+	at java.nio.file.Files.walk(Files.java:3574)
+	at java.nio.file.Files.walk(Files.java:3625)
+	at org.ballerinalang.stdlib.internal.file.Delete.execute(Delete.java:68)
+	at org.ballerinalang.bre.bvm.BlockingNativeCallableUnit.execute(BlockingNativeCallableUnit.java:35)
+	at org.ballerinalang.util.program.BLangFunctions.invokeNativeCallable(BLangFunctions.java:389)
+	at org.ballerinalang.util.program.BLangFunctions.invokeCallable(BLangFunctions.java:260)
+	at org.ballerinalang.bre.bvm.CPU.invokeVirtualFunction(CPU.java:2888)
+	at org.ballerinalang.bre.bvm.CPU.tryExec(CPU.java:419)
+	at org.ballerinalang.bre.bvm.CPU.exec(CPU.java:153)
+	at org.ballerinalang.bre.bvm.BLangScheduler$WorkerExecutor.run(BLangScheduler.java:256)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2018-10-25 15:15:08,502] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m1s428ms).  
+[2018-10-25 15:15:37,941] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Retrograde clock change detected (housekeeper delta=29s443ms), soft-evicting connections from pool.  
+[2018-10-25 16:00:23,915] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m49s44ms).  
+[2018-10-25 16:05:42,046] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s111ms).  
+[2018-10-25 16:11:00,888] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s837ms).  
+[2018-10-25 16:16:20,034] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m49s135ms).  
+[2018-10-25 16:21:09,152] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m49s118ms).  
+[2018-10-25 16:26:27,281] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m48s119ms).  
+[2018-10-25 16:28:36,952] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m39s655ms).  
+[2018-10-25 16:32:50,844] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m13s892ms).  
+[2018-10-25 21:37:18,239] WARN  {com.zaxxer.hikari.pool.PoolBase} - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@1dd4ea70 (No operations allowed after connection closed.)  
+[2018-10-25 21:37:26,690] WARN  {com.zaxxer.hikari.pool.PoolBase} - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@7d7e7fe7 (No operations allowed after connection closed.)  
+[2018-10-25 21:37:35,007] ERROR {org.wso2.transport.http.netty.sender.TargetErrorHandler} - Error in HTTP client: Idle timeout triggered before initiating inbound response  
+[2018-10-25 21:37:49,750] WARN  {com.zaxxer.hikari.pool.PoolBase} - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@6c6de6fd (No operations allowed after connection closed.)  
+[2018-10-25 21:37:53,120] ERROR {org.wso2.transport.http.netty.sender.TargetErrorHandler} - Error in HTTP client: Idle timeout triggered before initiating inbound response  
+[2018-10-25 21:37:53,121] ERROR {org.ballerinalang.stdlib.internal.file.Delete} - IO error occurred while deleting file/directory: ./files/2018_10_25_ItemStatus.txt 
+java.nio.file.NoSuchFileException: ./files/2018_10_25_ItemStatus.txt
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:86)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:102)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:107)
+	at sun.nio.fs.UnixFileAttributeViews$Basic.readAttributes(UnixFileAttributeViews.java:55)
+	at sun.nio.fs.UnixFileSystemProvider.readAttributes(UnixFileSystemProvider.java:144)
+	at java.nio.file.Files.readAttributes(Files.java:1737)
+	at java.nio.file.FileTreeWalker.getAttributes(FileTreeWalker.java:219)
+	at java.nio.file.FileTreeWalker.visit(FileTreeWalker.java:276)
+	at java.nio.file.FileTreeWalker.walk(FileTreeWalker.java:322)
+	at java.nio.file.FileTreeIterator.<init>(FileTreeIterator.java:72)
+	at java.nio.file.Files.walk(Files.java:3574)
+	at java.nio.file.Files.walk(Files.java:3625)
+	at org.ballerinalang.stdlib.internal.file.Delete.execute(Delete.java:68)
+	at org.ballerinalang.bre.bvm.BlockingNativeCallableUnit.execute(BlockingNativeCallableUnit.java:35)
+	at org.ballerinalang.util.program.BLangFunctions.invokeNativeCallable(BLangFunctions.java:389)
+	at org.ballerinalang.util.program.BLangFunctions.invokeCallable(BLangFunctions.java:260)
+	at org.ballerinalang.bre.bvm.CPU.invokeVirtualFunction(CPU.java:2888)
+	at org.ballerinalang.bre.bvm.CPU.tryExec(CPU.java:419)
+	at org.ballerinalang.bre.bvm.CPU.exec(CPU.java:153)
+	at org.ballerinalang.bre.bvm.BLangScheduler$WorkerExecutor.run(BLangScheduler.java:256)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+ 
+[2018-10-25 21:38:03,910] WARN  {com.zaxxer.hikari.pool.PoolBase} - HikariPool-1 - Failed to validate connection com.mysql.jdbc.JDBC4Connection@7c4b1be1 (No operations allowed after connection closed.)  
+[2018-10-25 23:58:50,447] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m29s634ms).  
+[2018-10-26 01:13:56,499] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h14m36s31ms).  
+[2018-10-26 02:04:57,598] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m31s97ms).  
+[2018-10-26 03:10:39,338] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m11s739ms).  
+[2018-10-26 03:34:32,459] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=23m53s120ms).  
+[2018-10-26 04:09:42,600] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m40s137ms).  
+[2018-10-26 04:49:30,725] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=39m18s123ms).  
+[2018-10-26 05:53:14,578] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h3m13s845ms).  
+[2018-10-26 07:32:47,255] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m32s35ms).  
+[2018-10-26 08:59:21,411] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=34m33s799ms).  
+[2018-10-26 09:14:01,887] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=13m653ms).  
+[2018-10-26 10:24:39,790] WARN  {com.zaxxer.hikari.pool.HikariPool} - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m43s495ms).  
